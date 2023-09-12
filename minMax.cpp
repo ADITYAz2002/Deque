@@ -1,3 +1,20 @@
+/*
+
+Made a data structure using deque that supports the following operations in O(1) time:
+1) Get Minimum
+
+2) Get Maximum
+
+3) Insert Minimum
+
+4) Insert Maximum
+
+5) Delete Minimum
+
+6) Delete Maximum
+
+*/
+
 #include <iostream>
 #include <deque>
 using namespace std;
